@@ -1,0 +1,5 @@
+- [Website](https://www.clozemaster.com/)
+- [Reddit](https://www.reddit.com/r/clozemaster/)
+- [Medium](https://medium.com/@clozemaster)
+- [Twitter](https://twitter.com/clozemaster)
+- [Tumblr](https://clozemaster.tumblr.com/)

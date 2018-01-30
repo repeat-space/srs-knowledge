@@ -4,7 +4,9 @@
 
 > Recommended to use with [octo-tree](https://github.com/buunguyen/octotree) extension
 
-Everything around spaced repetition software
+Spaced repetition is a learning technique that incorporates increasing intervals of time between subsequent review of previously learned material ([WP](https://en.wikipedia.org/wiki/Spaced_repetition)).
+
+This repository aims at containing everything around programming spaced repetition software.
 
 ## Articles
 

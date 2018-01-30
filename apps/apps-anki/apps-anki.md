@@ -4,6 +4,11 @@ Anki is a spaced repetition flashcard program. "Anki" (暗記) is the Japanese w
 
 The front and the back sides of "cards" are used. Content is in HTML. It may include text, images, sounds, videos and LaTeX equations. The decks of cards, along with the user's statistics, are stored in the open SQLite format.
 
+## Instructions
+
+The video demonstrates how to use drag and drop with Anki-Desktop to create an Anki (apkg) file
+https://www.youtube.com/watch?v=8CkE5uMD-p8 (3 min)
+
 
 ## Desktop (macOS, Linux, Windows)
 

@@ -1,3 +1,10 @@
+# Anki .
+
+Anki is a spaced repetition flashcard program. "Anki" (暗記) is the Japanese word for "memorization" [Wikipedia]()https://en.wikipedia.org/wiki/Anki_(software).
+
+The front and the back sides of "cards" are used. Content is in HTML. It may include text, images, sounds, videos and LaTeX equations. The decks of cards, along with the user's statistics, are stored in the open SQLite format.
+
+
 ## Desktop (macOS, Linux, Windows)
 
 - [Sources](https://github.com/dae/anki)

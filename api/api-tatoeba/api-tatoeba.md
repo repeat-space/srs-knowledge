@@ -20,4 +20,4 @@ https://tatoeba.org/eng/downloads
 
 ## Related
 
-- [`betten/ankipack`](anki deck generation combining frequency lists with tatoeba)
+- [`betten/ankipack`](https://github.com/betten/ankipack) - anki deck generation combining frequency lists with tatoeba
